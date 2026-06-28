@@ -119,6 +119,27 @@ StayNest is designed to provide a seamless property rental experience where user
 
 ---
 
+## 📸 Screenshots
+<p align="center">
+  <img src="./screenshots/home.png" width="45%">
+  <img src="./screenshots/search.png" width="45%">
+</p>
+
+<p align="center">
+  <img src="./screenshots/login.png" width="45%">
+  <img src="./screenshots/signup.png" width="45%">
+</p>
+
+<p align="center">
+  <img src="./screenshots/createListing.png" width="45%">
+  <img src="./screenshots/editListing.png" width="45%">
+</p>
+
+<p align="center">
+  <img src="./screenshots/review.png" width="45%">
+  <img src="./screenshots/map.png" width="45%">
+</p>
+
 ## 📂 Project Structure
 
 ```text
