@@ -163,7 +163,7 @@ StayNest/
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/rudraydv09/staynest.git
+git clone https://github.com/rudraydv09/StayNest.git
 cd staynest
 npm install
 ```
